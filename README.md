@@ -7,9 +7,9 @@
 1. Clone the repo
 
 
-    $ git clone https://github.com/gaips/aasma-labs
+    $ git clone https://github.com/gaips/aasma-spring-23
     
-    $ cd aasma-labs
+    $ cd aasma-spring-23
 
 2. Create virtual environment (tested with python 3.8.10)
 
